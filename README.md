@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MartaFCardoso
+- 👀 I’m interested in developing my skills
+- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate on front-end projects
+- 📫 How to reach me fcardoso.marta@gmail.com
